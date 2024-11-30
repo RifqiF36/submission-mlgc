@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-rifqif-442611",
+  "private_key_id": "7c1998d54333ef0aedc11ddd7704544149468730",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDdO1gzD8hJRBdU\nkmDJz7hLdzR/fDoacHUerFMThK6Y5/1sD36iiaQ+pyYVNQV4FWRITiurt4ajXaba\nsRnT7mi0ecEtYvpavtWL6eMVINBncd00cIBmzIW8Cix9l7Y/oMAYrXlcXFq4C4p3\nA0WH4x/OfMM9zAnpwDHoeJHyCrHSKgSEfgD7wiMvfULluqbxJn5fh5oNYSqMEyEi\neaWrOGsnsarQR6skDmUXivuPlw+lVYP2rdnd05uCpk6PVl7NsgQh/nP/Q4fyEbdB\ndAI4SyqtG5FJcLPlngQMHTsYikioR1/lTbIJNTcpqPKGaWyCdvrEr+IHk55vyzyn\nVlF9OKHPAgMBAAECggEAIj9UQV3+wg4fE8yFMeNMwwH1HTcnQiiJOPJcT000P3TK\nWmFxAnW5o1P6JUD2qRxGpfApT9qH+9+SO5CRpak73um/lJMZ8SpRoeiBwCeQRjND\nlyFDVKacnVDF37tjTyjyE9/m8FFWXzS01AUBooOad5CreMmOpKJIF5YdTGbeGDZ3\nKCbk24DLZoR52Gd7InLAWcJDvbG7x3BM2zue/rDjjEL8yOkxtwtcdgwXeDlqT3dY\nOf50hoHja7fTSg0j28o9zl+VB+/PhAxAFLoNh95ZLDKIOUvXAD3pfiuoiRKV402r\nN6eWXCbu8IXCETI1uMYZqLLdrJ8zFZl/igiPsDj2IQKBgQD7wiTzZN4ydKD4NVoC\nV/Ivr/MZoOkZeoASAzGBVuwLdO9r63GCKgkEiK+1/JJF7sjokEOQW5p8w4qWsPlZ\nY0SR6QVumFQUi3MFKzqDE/dy16zZANxa4wuvYzsy8yWg6yMTslrRRaPfvwSfDWXC\nc2/qw6xj2Me9438TaEi74OnoGwKBgQDg9YlXRwK4DnhKohQuUs5ty0VMcbbGt/o9\nKNMjS5ZeW2vaq32CGDTcovY/+zoERAQExiqrWxniFC4lkbXtvYKAPJrdlEzlH1VZ\nAWmEef0XWmcJzuLdvCofvCpu+nwy6VyWnuBbPGtYpDk0T461yub4wJrmZG/mnhSn\nHyfZ0lLwXQKBgQC0H2ZigbN78/fLPhik/pk3RzKuDnNYGE4TFRfRSwhc9g/qbaxr\njXmgNc9JbGiXAk3aHoVIflGcnCbGw93S93Py1P5e7zuQ62iitRgK+jkbgHWZWMVP\nfYw5ssyDGnW8mR8ik4PooGOrzLYYufQpWIAlPlRTp6DZGjAsCXuoeDXCKwKBgATX\n5HwXkExsK1TYBn001TLx9Gz/6cJ/hYi5j0osP3GKoFjV5l7drI2viIO6IfajjD6a\nEaMc1ALVEmVGrNcQhHXEWEU7AyjPsuO2rxHmGnfdP2irpqDFg1apk3ROOkxST+cC\nRqxQMbN33a9toxHw62Yhp3QcZ3hcoO80MYR0DcsVAoGAHkN3NgsT4fFB2oxOFx//\ngrZqqG3d+N1AW+QsKmU/pIiYlYXgI1LVh2NG6hgh6KxVkHWSI0pU26BXCapJlK65\n35xmRDc0kJxX+oYScX2NqGADKxbH6V7VYrL6yZLbtR7kHdZ4Cce2Mzrrc1gYh1MA\nuiulKW1uHGA2dAxOJi5fIK4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kunci-firebase-cancer-predicti@submissionmlgc-rifqif-442611.iam.gserviceaccount.com",
+  "client_id": "102952259439244132619",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kunci-firebase-cancer-predicti%40submissionmlgc-rifqif-442611.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
